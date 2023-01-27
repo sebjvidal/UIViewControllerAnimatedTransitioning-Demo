@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "apple-park-visitor-center.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
